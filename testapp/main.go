@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/Mizaro/postgres-feature-flag/pkg/postgrestfeatureflags"
+	"github.com/Mizaro/postgrest-feature-flag/pkg/postgrestfeatureflags"
 	"github.com/open-feature/go-sdk/openfeature"
 )
 

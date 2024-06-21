@@ -1,4 +1,4 @@
-module github.com/Mizaro/postgres-feature-flag
+module github.com/Mizaro/postgrest-feature-flag
 
 go 1.21.5
 
